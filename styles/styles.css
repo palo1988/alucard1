@@ -1,0 +1,26 @@
+h1 {
+  color: aquamarine;
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+  font-family: fantasy;
+}
+
+img {
+  border-radius: 20px;
+}
+
+.img3 {
+  border-radius: 40px;
+}
+.video {
+  text-align: center;
+}
+footer {
+  background-color: rgb(19, 19, 46);
+}
+.pie {
+  color: antiquewhite;
+}
